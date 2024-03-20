@@ -1,0 +1,14 @@
+Document Object:
+          It is HTML document. 
+          it appears in the windows website. 
+          it interactive with web pages.
+          DOM is a logical tree.
+          its allows methods , styles , contents.
+
+Windows Object:
+          It is a global object.
+          Behave as the root of the document object model.
+          The window object, supported by all browsers.
+          The Window object is responsible for managing global variables,functions,objects,providing methods for browser interaction
+          window.open() ,window.close()..etc..
+
